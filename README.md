@@ -39,6 +39,7 @@ Max Tm difference between primers: ≤ 2 °C
 
 Forward Primer (5′ → 3′):
 CGTCGCCAGCCGAGC
+
 **Reverse Primer (5
 GCCCAATACGACCAAATCCG
 
