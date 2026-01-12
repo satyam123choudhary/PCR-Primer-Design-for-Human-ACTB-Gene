@@ -35,7 +35,7 @@ PCR product size: 80–200 bp
 Max Tm difference between primers: ≤ 2 °C
 
 
-#Designed Primer Sequences
+# Designed Primer Sequences
 
 Forward Primer (5′ → 3′):
 [PASTE FORWARD PRIMER SEQUENCE HERE]
