@@ -38,10 +38,9 @@ Max Tm difference between primers: ≤ 2 °C
 # Designed Primer Sequences
 
 Forward Primer (5′ → 3′):
-[PASTE FORWARD PRIMER SEQUENCE HERE]
-
+CGTCGCCAGCCGAGC
 **Reverse Primer (5
-
+GCCCAATACGACCAAATCCG
 
 <img width="1806" height="897" alt="Screenshot 2026-01-12 112703" src="https://github.com/user-attachments/assets/863a4bca-bd36-425d-80ed-a501e878ef05" />
 <img width="1809" height="876" alt="Screenshot 2026-01-12 112611" src="https://github.com/user-attachments/assets/5078abf1-de5d-4996-9521-cc7f49bc93df" />
